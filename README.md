@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tested  : OS Windows Seven 
+# Tested  : OS Windows Seven & Android Working
 
 # Psiphon3 Khusus Laptop & PC Working
 
