@@ -17,7 +17,7 @@
 
 # Tutorial PdaNet For Android : https://github.com/boychongzen18/Pdanet-For-Andoid
 
-# Link Python3  : https://www.python.org/downloads
+# Link Python3  : https://www.python.org/downloads/windows
 
 # Link Psiphon3 : https://www.psiphon3.com/id/download.html
 
